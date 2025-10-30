@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Site de Mahawè</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eef6f9;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 { color: #0077b6; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur le site de Mahawè</h1>
+  <p>Étudiant en biologie animale, passionné par la découverte et la nature.</p>
+</body>
+</html>
